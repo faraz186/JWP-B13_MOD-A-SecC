@@ -8,7 +8,7 @@
 <h3>First Class of HTML</h3>
 <h4>First Class of HTML</h4>
 <h5>First Class of HTML</h5>
-<h6>First Class of HTML</h6>
+<h6>First Class of HTML</h6>  
 
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 
