@@ -1,23 +1,22 @@
 /* Universal Selector */
 
 
-/* *{
+*{
     color: red;
     background-color: aliceblue;
 
-} */
+} 
 
-/* body{
+ body{
     background-color: lightgreen;
-} */
+} 
 
 
 /* Type Selector */
 
 
 
-
-/* h1{
+ h1{
     color: brown;
 }
 
@@ -27,20 +26,19 @@ h2{
 
 p{
     color: blue;
-} */
+} 
 
 
-
-/* h1,h2,h3{
+h1,h2,h3{
     color: red;
     background-color: aliceblue;
-} */
+} 
 
 
 
 /* Class Selector */
 
-/* .heading1{
+ .heading1{
     color: red;
 }
 
@@ -50,8 +48,7 @@ p{
 
 .heading3{
     color: green;
-} */
-
+} 
 
 
 
@@ -60,8 +57,6 @@ p{
 
 
 
-
-/* 
 #heading1{
     color: red;
 }
@@ -76,24 +71,24 @@ p{
 
 p{
     color: brown;
-} */
+} 
 
 
 
 /* Child Selector */
 
 
-/* div>p{
+div>p{
     color: blue;
-} */
+} 
 
 
 
 /* Descendant Selector */
 
-/* div p{
+div p{
     color: red;
-} */
+} 
 
 
 
@@ -104,7 +99,7 @@ p{
 h1+p{
     color: red;
     background-color: lightcyan;
-} */
+} 
 
 
 
