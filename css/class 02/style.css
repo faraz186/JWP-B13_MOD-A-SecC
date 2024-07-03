@@ -1,0 +1,60 @@
+ div>h1{  
+    color: red;
+    background-color: black;
+}    
+
+div>p{
+    color: white;
+    background-color: black;
+} 
+
+
+/* rgb(red,green,blue) values */
+
+
+div>h1
+{
+    color: hsla(160, 72%, 43%,0.4);
+
+    background-color: rgb(9, 123, 143);
+
+}
+
+div>p
+{
+
+    color: white;
+
+    background-color: black;
+} 
+
+/* Offline Font */
+
+
+@font-face {
+    font-family: "faraz";
+    src: url(Poppins-MediumItalic.ttf);
+}
+
+
+h1{
+    font-family: "faraz";
+}
+
+/* Online Font */
+
+
+h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+
+
+p{
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+} 

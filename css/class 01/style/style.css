@@ -1,0 +1,117 @@
+/* Universal Selector */
+
+
+/* *{
+    color: red;
+    background-color: aliceblue;
+
+} */
+
+/* body{
+    background-color: lightgreen;
+} */
+
+
+/* Type Selector */
+
+
+
+
+/* h1{
+    color: brown;
+}
+
+h2{
+    color: green;
+}
+
+p{
+    color: blue;
+} */
+
+
+
+/* h1,h2,h3{
+    color: red;
+    background-color: aliceblue;
+} */
+
+
+
+/* Class Selector */
+
+/* .heading1{
+    color: red;
+}
+
+.heading2{
+    color: blue;
+}
+
+.heading3{
+    color: green;
+} */
+
+
+
+
+
+/* Id Selector */
+
+
+
+
+/* 
+#heading1{
+    color: red;
+}
+
+#heading2{
+    color: blue;
+}
+
+#heading3{
+    color: green;
+}
+
+p{
+    color: brown;
+} */
+
+
+
+/* Child Selector */
+
+
+/* div>p{
+    color: blue;
+} */
+
+
+
+/* Descendant Selector */
+
+/* div p{
+    color: red;
+} */
+
+
+
+
+/* Adjacent Sibling Selector
+
+
+h1+p{
+    color: red;
+    background-color: lightcyan;
+} */
+
+
+
+/* General Sibling Selector */
+
+
+h1~p{
+    color: red;
+    background-color: lightcyan;
+}
