@@ -1,0 +1,59 @@
+/* @font-face {
+    font-family: "Roboto";
+    src: url(./fonts/Roboto-Medium.ttf);
+} 
+
+div{
+    font-family: "Roboto";
+}
+
+p{
+    font-size: 3em;
+}  */
+
+/* @font-face {
+    font-family: "GaMaamli";
+    src: url(./fonts/GaMaamli-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url(./fonts/Poppins-Thin.ttf);
+} */
+
+
+/* div>h1{
+    color: green;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+} */
+
+
+/* div>h1{
+    color: green;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+} */
+
+/* div>p>span{
+    font-weight: bold;
+    font-style:oblique;
+   
+} */
+/* 
+div>p{
+    text-transform: capitalize;
+} */
+
+/* a{
+    color: black;
+    text-decoration: none;
+} */
+
+p{
+    line-height: 30px;
+    word-spacing: 15px;
+}
