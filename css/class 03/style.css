@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
     font-family: "Roboto";
     src: url(./fonts/Roboto-Medium.ttf);
 } 
@@ -9,7 +9,7 @@ div{
 
 p{
     font-size: 3em;
-}  */
+} 
 
 /* @font-face {
     font-family: "GaMaamli";
