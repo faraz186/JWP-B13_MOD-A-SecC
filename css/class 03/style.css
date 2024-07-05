@@ -43,11 +43,13 @@ div>h1{
 }
 
 
-/* div>p>span{
+div>p>span{
     font-weight: bold;
     font-style:oblique;
    
-} */
+}
+
+
 /* 
 div>p{
     text-transform: capitalize;
