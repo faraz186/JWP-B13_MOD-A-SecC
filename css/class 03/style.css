@@ -51,14 +51,20 @@ div>p>span{
 
 
 
+
 div>p{
     text-transform: capitalize;
 }
 
+
+
 a{
+    
     color: black;
     text-decoration: none;
 }
+
+
 
 p{
     line-height: 30px;
