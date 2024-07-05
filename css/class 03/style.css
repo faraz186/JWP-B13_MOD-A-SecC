@@ -11,15 +11,17 @@ p{
     font-size: 3em;
 } 
 
-/* @font-face {
+@font-face {
     font-family: "GaMaamli";
     src: url(./fonts/GaMaamli-Regular.ttf);
 }
 
+
+
 @font-face {
     font-family: "Poppins";
     src: url(./fonts/Poppins-Thin.ttf);
-} */
+}
 
 
 /* div>h1{
