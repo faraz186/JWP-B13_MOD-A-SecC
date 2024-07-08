@@ -1,0 +1,71 @@
+/* #container p{
+   text-indent: 200px;
+    text-shadow: -4px 2px 2px green;
+}
+
+#container>p:first-letter{
+    font-size: 45px;
+    color: red;
+}
+
+#container>p>span{
+    font-size: 45px;
+    color: red;
+}
+
+#container>p:first-line{
+    color: blue;
+    font-weight: bold;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: green;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+}
+
+button:active{
+    background-color: green;
+}
+
+input:focus{
+
+    background-color: lightsalmon;
+} */
+
+li:nth-child(5n){
+    color: red;
+}
+
+p[id]{
+    color: red;
+    background-color: black;
+}
+
+
+p[id~="para"]{
+    color: white;
+    background-color: black;
+}
+
+
+p[class*="z"]{
+    font-weight: bold;
+}
+
+
+p[class^="z"]{
+    font-weight: bold;
+}
+
+
+p[class$="z"]{
+    font-weight: bold;
+}
