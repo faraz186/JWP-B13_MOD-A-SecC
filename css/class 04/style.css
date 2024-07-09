@@ -1,4 +1,4 @@
-/* #container p{
+ #container p{
    text-indent: 200px;
     text-shadow: -4px 2px 2px green;
 }
@@ -38,7 +38,7 @@ button:active{
 input:focus{
 
     background-color: lightsalmon;
-} */
+} 
 
 li:nth-child(5n){
     color: red;
@@ -62,7 +62,7 @@ p[class*="z"]{
 
 
 p[class^="z"]{
-    font-weight: bold;
+    font-weight: bold;   
 }
 
 
