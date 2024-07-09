@@ -5,7 +5,7 @@
 
 #container>p:first-letter{
     font-size: 45px;
-    color: red;
+    color: red;  
 }
 
 #container>p>span{
