@@ -14,7 +14,7 @@
 }
 
 #container>p:first-line{
-    color: blue;
+    color: blue;  
     font-weight: bold;
 }
 
