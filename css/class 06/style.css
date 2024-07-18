@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+
+
+#box>img{
+    width: 100%;
+}
+
+
+#box{
+    border: 2px solid blue;
+    width: 300px;
+    min-height: 250px;
+    max-height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+p{
+    /* border: 5px groove red;
+
+    border-top-color: red;
+    border-bottom-color: green;
+    border-right-color: blue;
+    border-left-color: black; */
+
+    /* border-width: 5px;
+    border-style:ridge;
+    border-color: red; */
+    /* text-align: justify; */
+    /* margin: 10px 50px 10px 100px; */
+
+    /* width: 200px; */
+    /* margin: 0px auto 0px auto; */
+
+    /* Different positions of padding */
+    /* padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 40px; */
+    /* Short hand padding property */
+    /* padding: 10px 40px 50px 60px; */
+}
+
+li{
+    background-color: green;
+    margin: 5px;
+    padding: 5px;
+    width: 150px;
+    /* list-style: non; */
+    height: 80px;
+    /* display: inline-block; */
+}
+
+a{
+    background-color: black;
+    color: red;
+    display: block;
+}
+
+.list{
+    display: none;
+}
