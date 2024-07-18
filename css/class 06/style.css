@@ -19,29 +19,36 @@
 }
 
 p{
-    /* border: 5px groove red;
+    border: 5px groove red;
 
     border-top-color: red;
     border-bottom-color: green;
     border-right-color: blue;
-    border-left-color: black; */
+    border-left-color: black;
 
-    /* border-width: 5px;
+    border-width: 5px;
     border-style:ridge;
-    border-color: red; */
-    /* text-align: justify; */
-    /* margin: 10px 50px 10px 100px; */
+    border-color: red;
+    
+    text-align: justify;
 
-    /* width: 200px; */
-    /* margin: 0px auto 0px auto; */
+/*     short hand property     */
+    
+margin: 10px 50px 10px 100px;
+
+    width: 200px;
+    margin: 0px auto 0px auto;
 
     /* Different positions of padding */
-    /* padding-top: 10px;
+    
+    padding-top: 10px;
     padding-bottom: 50px;
     padding-left: 60px;
-    padding-right: 40px; */
+    padding-right: 40px;
+    
     /* Short hand padding property */
-    /* padding: 10px 40px 50px 60px; */
+    
+    padding: 10px 40px 50px 60px;
 }
 
 li{
@@ -49,16 +56,16 @@ li{
     margin: 5px;
     padding: 5px;
     width: 150px;
-    /* list-style: non; */
+    list-style: none;
     height: 80px;
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 a{
     background-color: black;
     color: red;
     display: block;
-}
+}  
 
 .list{
     display: none;
