@@ -1,8 +1,11 @@
-/* p {
+p {
   font-size: 24px;
   font-weight: bold;
   text-decoration: underline;
-} */
+}
+
+              /* Navbar style code  */
+
 
 * {
   margin: 0;
@@ -33,6 +36,9 @@ li {
 .navTitle {
   margin-right: 400px;
 }
+
+
+/* Card section style */
 
 .card1 {
   width: 300px;
