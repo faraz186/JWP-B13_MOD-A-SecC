@@ -1,0 +1,92 @@
+/* p {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+ul {
+  list-style-type: none;
+  background-color: brown;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  display: inline;
+  color: white;
+  margin-left: 8px;
+}
+
+.navTitle {
+  margin-right: 400px;
+}
+
+.card1 {
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: white;
+  display: inline-block;
+}
+
+.card1Img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card1Title {
+  margin: 10px;
+  font-size: 13px;
+  background-color: rgb(165, 165, 250);
+  width: 65px;
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.card1Heading {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+}
+
+.car1Desc {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  font-size: 13px;
+  color: rgb(59, 57, 57);
+}
+
+.card1User {
+  width: 30px;
+  margin-top: 50px;
+  margin-left: 5px;
+  border-radius: 50%;
+}
+
+.card1userTitle {
+  position: relative;
+  top: -13px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.card1userTime {
+  position: relative;
+  top: -15px;
+  left: 40px;
+  font-size: 10px;
+  color: grey;
+}

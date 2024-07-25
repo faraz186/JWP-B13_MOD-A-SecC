@@ -1,0 +1,45 @@
+div {
+  border: 2px solid green;
+  width: 300px;
+  margin: 0px auto;
+  box-shadow: 5px 5px 4px green;
+  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.para {
+  display: none;
+  visibility: visible;
+}
+
+ol {
+  list-style: inside lower-latin;
+  list-style-type: decimal-leading-zero;
+  list-style-position: inside;
+}
+
+table {
+  /* border-collapse: collapse; */
+  border-spacing: 10px 20px;
+  empty-cells: hide;
+}
+
+table td {
+  border: 2px solid red;
+}
+
+#email {
+  background-image: url("https://media.istockphoto.com/id/1125279178/vector/mail-line-icon.jpg?s=612x612&w=0&k=20&c=NASq4hMg0b6UP9V0ru4kxL2-J114O3TaakI467Pzjzw=");
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: 2px;
+
+  padding: 0 0 0 20px;
+}
+
+#radio {
+  accent-color: red;
+  cursor: pointer;
+}
