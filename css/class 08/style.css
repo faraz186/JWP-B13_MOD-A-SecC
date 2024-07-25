@@ -1,14 +1,14 @@
 @import url(./style2.css);
 
-/* body {
+body {
   background-color: aquamarine;
 }
 h1 {
   color: red;
   background-color: black;
-} */
+}
 
-/* .blackBox {
+.blackBox {
   background-color: black;
   width: 120px;
   height: 120px;
@@ -32,9 +32,10 @@ img {
   position: relative;
   top: -120px;
   left: 290px;
-} */
+}
 
-/* .text1 {
+
+.text1 {
   background-color: red;
   width: 250px;
   height: 50px;
@@ -55,6 +56,8 @@ img {
   height: 50px;
 }
 
+
+
 .text4 {
   background-color: yellowgreen;
   width: 230px;
@@ -62,6 +65,8 @@ img {
   height: 50px;
 }
 
+
+
 p {
   clear: both;
-} */
+}
