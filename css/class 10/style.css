@@ -1,0 +1,47 @@
+.mainContainer {
+  display: flex;
+  height: 1000px;
+  background-color: aqua;
+  align-items: baseline;
+  flex-flow: row wrap;
+
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  align-content: flex-start;
+
+  row-gap: 100px;
+  column-gap: 50px;
+
+  gap: 100px 50px;
+}
+
+.div1 {
+  margin-top: 100px;
+  background-color: red;
+  font-size: 60px;
+  flex-basis: 400px;
+  height: 500px;
+}
+
+.div2 {
+  background-color: blue;
+  font-size: 60px;
+  width: 600px;
+  height: 450px;
+}
+
+.div3 {
+  margin-top: 200px;
+  background-color: green;
+  font-size: 60px;
+  width: 900px;
+  height: 250px;
+}
+
+.div4 {
+  background-color: orangered;
+  font-size: 60px;
+  width: 300px;
+  height: 550px;
+}

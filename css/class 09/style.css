@@ -1,0 +1,40 @@
+div {
+  border: 1px solid black;
+  width: 80%;
+  height: 600px;
+  /* background: rgb(18, 36, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(18, 36, 0, 0.6725862219887955) 0%,
+    rgba(121, 9, 24, 0.7342108718487395) 35%,
+    rgba(236, 255, 0, 0.6109615721288515) 100%
+  ); */
+
+  /* background: linear-gradient(
+    to top right,
+    rgba(255, 1, 1, 0.5),
+    rgb(245, 241, 4, 0.5)
+  ); */
+
+  /* background-image: url(https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?cs=srgb&dl=pexels-pripicart-620337.jpg&fm=jpg);
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom center; */
+
+  /* Short hand property of background image */
+
+  /* background: url(https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?cs=srgb&dl=pexels-pripicart-620337.jpg&fm=jpg)
+    no-repeat top center;
+  background-size: 200px; */
+
+  /* background-image: linear-gradient(
+      90deg,
+      rgba(255, 1, 1, 0.2) 50%,
+      rgb(255, 255, 255, 0.9) 50%
+    ),
+    url(https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?cs=srgb&dl=pexels-pripicart-620337.jpg&fm=jpg);
+
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
