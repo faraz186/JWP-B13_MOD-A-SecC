@@ -1,0 +1,97 @@
+/* body {
+  background-color: aqua;
+}
+
+div {
+  background-color: lightgreen;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+p {
+  color: blue;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 500px;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: lightgreen;
+  }
+
+  h1 {
+    text-align: center;
+    border: 2px solid darkolivegreen;
+  }
+  img {
+    width: 380px;
+  }
+} */
+
+/* @media only screen and (max-width: 500px) {
+  body {
+    background-color: lightsalmon;
+  }
+} */
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.div1 {
+  background-color: red;
+  width: 400px;
+  font-size: 60px;
+  height: 300px;
+}
+
+.div2 {
+  background-color: blue;
+  width: 400px;
+  font-size: 60px;
+  height: 300px;
+}
+
+.div3 {
+  background-color: green;
+  width: 400px;
+  height: 300px;
+  font-size: 60px;
+}
+
+.div4 {
+  background-color: orangered;
+  width: 400px;
+  font-size: 60px;
+  height: 300px;
+}
+
+@media only screen and (max-width: 840px) {
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1214px) {
+  .parent {
+    gap: 30px 10px;
+  }
+}
+
+@media only screen and (max-width: 2016px) {
+  .parent {
+    gap: 30px 50px;
+  }
+}
