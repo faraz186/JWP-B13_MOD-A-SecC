@@ -1,0 +1,28 @@
+(JavaScript)
+
+JS,
+Basic JS,
+ES5 (Ecma Script 5),
+Common JS,
+Vanilla JS
+
+JS is a programming language.
+ It is a high level language.
+
+1) assembler
+
+2) complier    (complete)
+
+3) interpreter (line by line)
+
+
+there are three ways to show output
+on browser
+
+
+
+
+
+
+
+
