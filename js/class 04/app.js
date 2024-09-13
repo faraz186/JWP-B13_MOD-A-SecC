@@ -77,7 +77,7 @@ else
 
 var age = +prompt("Enter your age");
 
-if (age >= "18")
+if (age >= 18)
 {
   console.log("you are eligible for CNIC..");
 }
