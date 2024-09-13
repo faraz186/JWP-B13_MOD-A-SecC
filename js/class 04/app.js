@@ -72,6 +72,9 @@ else
   alert("you lived in " + city);
 }
 
+
+
+
 var age = +prompt("Enter your age");
 
 if (age >= "18")
