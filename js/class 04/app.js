@@ -1,4 +1,3 @@
-
 var name = prompt("Enter your name", "faraz");
 
 var age = prompt("Enter your age", 23);
