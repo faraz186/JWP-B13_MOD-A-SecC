@@ -95,9 +95,13 @@ var message;
 
 if (gender === "male") {
   message = "welcome boy..";
-} else if (gender === "female") {
+} 
+
+else if (gender === "female") {
   message = "welcome sister..";
-} else {
+} 
+
+else {
   console.log("incorrect input!!");
 }
 
