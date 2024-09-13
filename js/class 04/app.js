@@ -1,4 +1,3 @@
-// 1 argument
 
 var name = prompt("Enter your name", "faraz");
 
