@@ -138,14 +138,21 @@ if (percentage <= 50) {
 
 else if (percentage <= 60) {
   console.log("your grade is C");
-} else if (percentage <= 70) {
-  console.log("your grade is B");
-} else if (percentage <= 79) {
+} 
 
+else if (percentage <= 70) {
+  console.log("your grade is B");
+} 
+
+else if (percentage <= 79) {
   console.log("your grade is A");
-} else if (percentage <= 100) {
+} 
+
+else if (percentage <= 100) {
   console.log("your grade is A+");
-} else {
+} 
+
+else {
   console.log("invalid percentage");
 }
 
