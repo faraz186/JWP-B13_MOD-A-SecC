@@ -177,8 +177,6 @@ if (a) {
 
 var table = +prompt("Enter any number");
 
-
-
 if (table == "") {
   document.write(`<h1>Multiplication Table of 5</h1> <br>`);
 
@@ -197,8 +195,6 @@ if (table == "") {
         
         `);
 } 
-
-
 
 else {
   document.write(`<h1>Multiplication Table of ${table}</h1> <br>`);
