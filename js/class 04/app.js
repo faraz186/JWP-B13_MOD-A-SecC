@@ -5,9 +5,11 @@ var age = prompt("Enter your age", 23);
 
 console.log("Hello! My name is " + name + " . I am " + age + " years old.");
 
+
 // template literals
 
 console.log(`Hello! My name is ${name}. my age is ${age}`);
+
 
 var a = 10,
   b = 20,
@@ -22,6 +24,7 @@ document.write(`<select>
             <option value="">${d}</option>
             <option value="">${e}</option>
         </select>`);
+
 
 // if statement
 
