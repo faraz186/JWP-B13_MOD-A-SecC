@@ -198,7 +198,7 @@ if (table == "") {
 
 else {
   document.write(`<h1>Multiplication Table of ${table}</h1> <br>`);
-
+      
   document.write(`${table} x 1 = ${table * 1} <br>
         ${table} x 2 = ${table * 2} <br>
         ${table} x 3 = ${table * 3} <br>
