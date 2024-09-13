@@ -38,7 +38,7 @@ alert("welcome user!!");
 // String
 // Number
 // undefined
-// Boolean   true or false
+// Boolean   true or false   
 
 
 
