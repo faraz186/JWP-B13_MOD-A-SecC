@@ -134,7 +134,9 @@ var percentage = +prompt("Enter your percentage");
 
 if (percentage <= 50) {
   console.log("your grade is D");
-} else if (percentage <= 60) {
+} 
+
+else if (percentage <= 60) {
   console.log("your grade is C");
 } else if (percentage <= 70) {
   console.log("your grade is B");
