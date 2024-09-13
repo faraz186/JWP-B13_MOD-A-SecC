@@ -6,7 +6,7 @@ console.log("Hello! My name is " + name + " . I am " + age + " years old.");
 
 
 // template literals
-
+   
 console.log(`Hello! My name is ${name}. my age is ${age}`);
 
 
