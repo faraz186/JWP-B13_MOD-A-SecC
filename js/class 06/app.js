@@ -1,7 +1,7 @@
 var arr = [10,"faraz",true,undefined,50];
 
 console.log(arr[2])
-
+  
 
 var arr = [];
 
