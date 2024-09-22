@@ -99,7 +99,6 @@ for(var i = 0;i<=50;i++){
 console.log(i,"hello world");
 }
 
-
 // 2) while loop
 
 // 3) do-while loop
