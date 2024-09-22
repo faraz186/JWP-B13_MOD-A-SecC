@@ -12,7 +12,7 @@ arr[3] = undefined;
 console.log(arr[2])
 
 var userArr = [prompt("Enter your first name"),
-    prompt("Enter your last name"),
+    prompt("Enter your last name"),  
     prompt("Enter your age"),
     prompt("Enter your city")]
 
