@@ -23,7 +23,7 @@ console.log(`My name is ${userArr[0]} ${userArr[1]}. My age is ${userArr[2]} and
 
 
 // 1) push() method   (Add data in the end of an array)
-
+   
 
 fruitsArr.push("orange","mango","grapes");
 
