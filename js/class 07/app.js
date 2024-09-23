@@ -100,6 +100,7 @@ for (var i = 0; i < firstNames.length; i++) {
 
 console.log(fullNames);
 
+
 var userInput = prompt("Enter your city");
 
 var firstChar = userInput.slice(0, 1).toUpperCase();
