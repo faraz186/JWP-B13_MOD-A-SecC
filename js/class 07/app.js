@@ -12,24 +12,24 @@ for (var i = 9; i >= 0; i--) {
   console.log(i);
 }
 
-// var userInput = prompt("Enter your city");
+var userInput = prompt("Enter your city");
 
-// var citiesArr = [
-//   "karachi",
-//   "lahore",
-//   "multan",
-//   "quetta",
-//   "peshawar",
-//   "islamabad",
-// ];
+var citiesArr = [
+  "karachi",
+  "lahore",
+  "multan",
+  "quetta",
+  "peshawar",
+  "islamabad",
+];
 
-// for (var i = 0; i <= 5; i++) {
-//   console.log(citiesArr[i]);
-// }
+for (var i = 0; i <= 5; i++) {
+  console.log(citiesArr[i]);
+}
 
-// if (userInput === citiesArr[0]) {
-//   console.log("value match");
-// }
+if (userInput === citiesArr[0]) {
+  console.log("value match");
+}
 
 // else if (userInput === citiesArr[1]) {
 //   console.log("value match");
