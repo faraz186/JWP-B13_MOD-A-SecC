@@ -44,6 +44,8 @@ else {
   console.log("value not found..");
 }
 
+
+
 var userInput = prompt("Enter your city");
 
 var citiesArr = [
