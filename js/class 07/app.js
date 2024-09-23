@@ -72,19 +72,19 @@ if (faraz === 0) {
 
 var firstNames = ["faraz "];
 
-// var lastNames = ["Zzz", "Burp", "Dogbone", "Droop"];
+var lastNames = ["Zzz", "Burp", "Dogbone", "Droop"];
 
-// var fullNames = [];
+var fullNames = [];
 
-// for (var i = 0; i < firstNames.length; i++)
-// {
-//   for (var j = 0; j < lastNames.length; j++)
-//   {
-//     fullNames.unshift(firstNames[i] + lastNames[j]);
-//   }
-// }
+for (var i = 0; i < firstNames.length; i++)
+{
+  for (var j = 0; j < lastNames.length; j++)
+  {
+    fullNames.unshift(firstNames[i] + lastNames[j]);
+  }
+}
 
-// console.log(fullNames);
+console.log(fullNames);
 
 // var firstNames = ["Muhammad ", "syed "];
 
