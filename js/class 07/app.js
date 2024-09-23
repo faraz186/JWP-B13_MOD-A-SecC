@@ -86,19 +86,19 @@ for (var i = 0; i < firstNames.length; i++)
 
 console.log(fullNames);
 
-// var firstNames = ["Muhammad ", "syed "];
+var firstNames = ["Muhammad ", "syed "];
 
-// var lastNames = ["faraz", "farooq", "hamza", "ali"];
+var lastNames = ["faraz", "farooq", "hamza", "ali"];
 
-// var fullNames = [];
+var fullNames = [];
 
-// for (var i = 0; i < firstNames.length; i++) {
-//   for (var j = 0; j < lastNames.length; j++) {
-//     fullNames.push(firstNames[i] + lastNames[j]);
-//   }
-// }
+for (var i = 0; i < firstNames.length; i++) {
+  for (var j = 0; j < lastNames.length; j++) {
+    fullNames.push(firstNames[i] + lastNames[j]);
+  }
+}
 
-// console.log(fullNames);
+console.log(fullNames);
 
 var userInput = prompt("Enter your city");
 
