@@ -31,18 +31,18 @@ if (userInput === citiesArr[0]) {
   console.log("value match");
 }
 
-// else if (userInput === citiesArr[1]) {
-//   console.log("value match");
-// }
-// else if (userInput === citiesArr[2]) {
-//   console.log("value match");
-// }
-// else if (userInput === citiesArr[3]) {
-//   console.log("value match");
-// }
-// else {
-//   console.log("value not found..");
-// }
+else if (userInput === citiesArr[1]) {
+  console.log("value match");
+}
+else if (userInput === citiesArr[2]) {
+  console.log("value match");
+}
+else if (userInput === citiesArr[3]) {
+  console.log("value match");
+}
+else {
+  console.log("value not found..");
+}
 
 // var userInput = prompt("Enter your city");
 
