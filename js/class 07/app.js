@@ -133,6 +133,6 @@ if (flag === false) {
   console.log("city not found..");
 }
 
-// var text = "hello world";
+var text = "hello world";
 
-// console.log(text.slice(6, 11));
+console.log(text.slice(6, 11));
