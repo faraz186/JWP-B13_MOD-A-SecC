@@ -1,12 +1,16 @@
 // For Loop  
 
+// Increment loop
+
 for (var i = 0;i < 10; i++) {
   console.log(i);  
 }
 
-// for (var i = 9; i >= 0; i--) {
-//   console.log(i);
-// }
+// decrement loop
+
+for (var i = 9; i >= 0; i--) {
+  console.log(i);
+}
 
 // var userInput = prompt("Enter your city");
 
