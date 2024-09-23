@@ -44,31 +44,31 @@ else {
   console.log("value not found..");
 }
 
-// var userInput = prompt("Enter your city");
+var userInput = prompt("Enter your city");
 
-// var citiesArr = [
-//   "karachi",
-//   "lahore",
-//   "multan",
-//   "quetta",
-//   "peshawar",
-//   "islamabad",
-// ];
+var citiesArr = [
+  "karachi",
+  "lahore",
+  "multan",
+  "quetta",
+  "peshawar",
+  "islamabad",
+];
 
-// var faraz = 0;
+var faraz = 0;
 
-// for (var i = 0; i <= 5; i++) {
-//   if (userInput === citiesArr[i]) {
-//     console.log("city found..");
-//     faraz = 1;
-//   }
-// }
+for (var i = 0; i <= 5; i++) {
+  if (userInput === citiesArr[i]) {
+    console.log("city found..");
+    faraz = 1;
+  }
+}
 
-// if (faraz === 0) {
-//   console.log("city not found..");
-// }
+if (faraz === 0) {
+  console.log("city not found..");
+}
 
-// var firstNames = ["faraz "];
+var firstNames = ["faraz "];
 
 // var lastNames = ["Zzz", "Burp", "Dogbone", "Droop"];
 
