@@ -39,44 +39,56 @@ var remainText = text.slice(indexNum + 12);
 
 console.log(startingText + replaceText + remainText);
 
+
+
 // indexOf Method
 
-// var str = `To find the last instance of a segment in a string, use lastIndexOf. The following code
-// finds the index of the first character of the last instance`;
+var str = `To find the last instance of a segment in a string, use lastIndexOf. The following code
+finds the index of the first character of the last instance`;
 
-// var index = str.indexOf("lastIndexOf");
+var index = str.indexOf("lastIndexOf");
 
-// var start = str.slice(0, 56);
+var start = str.slice(0, 56);
 
-// var replacing = "indexOf";
+var replacing = "indexOf";
 
-// var remainText = str.slice(index + 11);
+var remainText = str.slice(index + 11);
 
-// console.log(start + replacing + remainText);
+console.log(start + replacing + remainText);
+
+
 
 // LastIndexof() method
 
-// var text = `to be or not be`;
+var text = `to be or not be`;
 
-// var index = text.lastIndexOf("be");
+var index = text.lastIndexOf("be");
 
-// console.log(index);
+console.log(index);
+
+
 
 // replace method and replaceAll method
 
-// var text = `The New Yorker magazine doesnt allow the phrase World War II. They say it should be World War II`;
 
-// console.log(text.replaceAll("World War II", "The Second world war"));
+var text = `The New Yorker magazine doesnt allow the phrase World War II. They say it should be World War II`;
 
-// console.log(text.replace("World War II", "The Second world war"));
+console.log(text.replaceAll("World War II", "The Second world war"));
 
-// var str = "hello world";
+console.log(text.replace("World War II", "The Second world war"));
 
-// var getChar = str.endsWith("f");
 
-// var getChar = str.split("");
 
-// console.log(getChar);
+
+var str = "hello world";
+
+var getChar = str.endsWith("f");
+
+var getChar = str.startsWith("h");
+
+var getChar = str.split("");
+
+console.log(getChar);
 
 // var arr = [10, "faraz", undefined, 40, true];
 
