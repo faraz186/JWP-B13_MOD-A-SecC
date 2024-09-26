@@ -26,17 +26,18 @@ for (var i = 0; i < text.length; i++) {
 
 console.log(text);
 
-// var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
 
-// var indexNum = text.indexOf("World War II");
+var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
 
-// var startingText = text.slice(0, 53);
+var indexNum = text.indexOf("World War II");
 
-// var replaceText = "The Second world war";
+var startingText = text.slice(0, 53);
 
-// var remainText = text.slice(indexNum + 12);
+var replaceText = "The Second world war";
 
-// console.log(startingText + replaceText + remainText);
+var remainText = text.slice(indexNum + 12);
+
+console.log(startingText + replaceText + remainText);
 
 // indexOf Method
 
