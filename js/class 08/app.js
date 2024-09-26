@@ -6,6 +6,8 @@ for (var i = 0; i < str.length; i++) {
   }
 }
 
+
+
 var text = `The New Yorker magazine doesn't allow the phrase World War II. They say it should be`;
 
 for (var i = 0; i < text.length; i++) {
@@ -15,6 +17,9 @@ for (var i = 0; i < text.length; i++) {
 }
 
 console.log(text);
+
+
+
 
 var text = `Jailed former Pakistani Prime Minister Khan has applied to become the next chancellor of Britain’s prestigious University of Oxford, his party says.`;
 
@@ -90,11 +95,15 @@ var getChar = str.split("");
 
 console.log(getChar);
 
-// var arr = [10, "faraz", undefined, 40, true];
 
-// var data = arr.join("_");
 
-// console.log(data);
+var arr = [10, "faraz", undefined, 40, true];
+
+var data = arr.join("_");
+
+console.log(data);
+
+
 
 var country_list = [
   "Afghanistan",
