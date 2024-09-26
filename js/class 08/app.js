@@ -11,7 +11,7 @@ var text = `The New Yorker magazine doesn't allow the phrase World War II. They 
 for (var i = 0; i < text.length; i++) {
   if (text.slice(i, i + 12) === "World War II") {
     text = text.slice(0, i) + "The Second world war" + text.slice(i + 12);
-  }
+  }  
 }
 
 console.log(text);
