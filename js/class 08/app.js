@@ -2,7 +2,7 @@ var str = prompt("Enter some Text");
 
 for (var i = 0; i < str.length; i++) {
   if (str.slice(i, i + 2) === "  ") {
-    alert("! found");  
+    alert("Double space found");  
   }
 }
 
