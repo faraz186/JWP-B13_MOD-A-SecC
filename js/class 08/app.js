@@ -1,10 +1,10 @@
-// var str = prompt("Enter some Text");
+var str = prompt("Enter some Text");
 
-// for (var i = 0; i < str.length; i++) {
-//   if (str.slice(i, i + 3) === "   ") {
-//     alert("! found");
-//   }
-// }
+for (var i = 0; i < str.length; i++) {
+  if (str.slice(i, i + 3) === "   ") {
+    alert("! found");
+  }
+}
 
 // var text = `The New Yorker magazine doesn't allow
 // the phrase World War II. They say it should be`;
