@@ -14,17 +14,17 @@ for (var i = 0; i < text.length; i++) {
   }
 }
 
-// console.log(text);
+console.log(text);
 
-// var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
+var text = `Jailed former Pakistani Prime Minister Khan has applied to become the next chancellor of Britain’s prestigious University of Oxford, his party says.`;
 
-// for (var i = 0; i < text.length; i++) {
-//   if (text.slice(i, i + 4) === "Khan") {
-//     text = text.slice(0, i) + "Imran khan" + text.slice(i + 4);
-//   }
-// }
+for (var i = 0; i < text.length; i++) {
+  if (text.slice(i, i + 4) === "Khan") {
+    text = text.slice(0, i) + "Imran khan" + text.slice(i + 4);
+  }
+}
 
-// console.log(text);
+console.log(text);
 
 // var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
 
