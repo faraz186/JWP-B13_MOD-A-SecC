@@ -39,13 +39,13 @@ var current = new Date().getTime();
 
 var diff = firstRamadan - current;
 
-// var month = diff / (1000 * 60 * 60 * 24 * 30);
+var month = diff / (1000 * 60 * 60 * 24 * 30);
 
-// console.log(Math.round(month));
+console.log(Math.round(month));
 
-// console.log("firstRamadan", firstRamadan);
+console.log("firstRamadan", firstRamadan);
 
-// console.log("current", current);
+console.log("current", current);
 
 function date() {
   var date = new Date().getFullYear();
