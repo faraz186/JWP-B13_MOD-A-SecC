@@ -31,13 +31,13 @@ var date = new Date("25 Feb 2015 15:35:40");
 
 console.log(date.toLocaleTimeString());
 
-// console.log(date);
+console.log(date);
 
-// var firstRamadan = new Date("March 1, 2025").getTime();
+var firstRamadan = new Date("March 1, 2025").getTime();
 
-// var current = new Date().getTime();
+var current = new Date().getTime();
 
-// var diff = firstRamadan - current;
+var diff = firstRamadan - current;
 
 // var month = diff / (1000 * 60 * 60 * 24 * 30);
 
