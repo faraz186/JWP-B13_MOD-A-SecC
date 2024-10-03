@@ -47,6 +47,9 @@ console.log("firstRamadan", firstRamadan);
 
 console.log("current", current);
 
+
+// Functions Chp # 35
+
 function date() {
   var date = new Date().getFullYear();
   console.log(date);
