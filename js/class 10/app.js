@@ -25,11 +25,11 @@ console.log(date.toString().slice(0, 10));
 
 var daysArr = ["اتوار", "پیر", "منگل", "بدھ", "جمعرات", "جمعہ", "ہفتہ"];
 
-// console.log(daysArr[date.getDay()]);
+console.log(daysArr[date.getDay()]);
 
-// var date = new Date("25 Feb 2015 15:35:40");
+var date = new Date("25 Feb 2015 15:35:40");
 
-// console.log(date.toLocaleTimeString());
+console.log(date.toLocaleTimeString());
 
 // console.log(date);
 
