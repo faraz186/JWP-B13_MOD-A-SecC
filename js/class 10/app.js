@@ -16,7 +16,7 @@ console.log(randomPassword);
 
 var date = new Date();
 
-// console.log(date.getTime());
+console.log(date.getTime());
 
 // console.log(typeof date);
 
