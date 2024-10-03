@@ -1,6 +1,6 @@
 var randomValues = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%&*";
 
-var randomPassword = "";
+var randomPassword = "";  
 
 for (var i = 0; i < 10; i++) {
   var randomNumber = Math.round(Math.random() * randomValues.length);
