@@ -10,7 +10,6 @@ for (var i = 0; i < 10; i++) {
 console.log(randomPassword);
 
 
-
 // Date chap 31
 
 
