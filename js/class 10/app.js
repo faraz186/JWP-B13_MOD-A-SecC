@@ -18,7 +18,7 @@ var date = new Date();
 
 console.log(date.getTime());
 
-// console.log(typeof date);
+console.log(typeof date);
 
 // console.log(date.slice(0, 10));
 
