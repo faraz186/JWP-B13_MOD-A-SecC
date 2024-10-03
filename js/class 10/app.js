@@ -1,3 +1,5 @@
+// Password generator program
+
 var randomValues = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%&*";
 
 var randomPassword = "";  
