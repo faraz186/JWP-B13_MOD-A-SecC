@@ -21,7 +21,7 @@ console.log(typeof date);
 
 console.log(date.slice(0, 10));
 
-// console.log(date.toString().slice(0, 10));
+console.log(date.toString().slice(0, 10));
 
 // var daysArr = ["اتوار", "پیر", "منگل", "بدھ", "جمعرات", "جمعہ", "ہفتہ"];
 
