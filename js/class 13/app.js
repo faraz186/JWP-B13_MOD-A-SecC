@@ -12,7 +12,7 @@ function addLink(anchorElement) {
   anchorElement.style.textDecoration = "none";  
 }
 
-console.log(document.getElementById("para1"));
+console.log(document.getElementById("para1"));  
 
 console.log(document.getElementById("para2"));
 
