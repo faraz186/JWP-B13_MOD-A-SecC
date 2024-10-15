@@ -56,29 +56,29 @@ multiplicationTable(+prompt("Enter any number"), +prompt("Enter range"));
   
 alert("alert call...");
 
-// function signUp() {
-//   Swal.fire({
-//     title: "Good job!",
-//     text: "signup successfully!",
-//     icon: "warning",
-//   });
-// }
+function signUp() {
+  Swal.fire({
+    title: "Good job!",
+    text: "signup successfully!",
+    icon: "warning",
+  });
+}
 
-// function greet() {
-//     Swal.fire({
-//       title: "Good job!",
-//       text: "signup successfully!",
-//       icon: "warning",
-//     });
-//   }
+function greet() {
+    Swal.fire({
+      title: "Good job!",
+      text: "signup successfully!",
+      icon: "warning",
+    });
+  }
 
-// function changeStyle(element) {
-//   console.log(element);
+function changeStyle(element) {
+  console.log(element);
 
-//   element.style.color = "red";
-//   element.style.backgroundColor = "black";
-//   element.style.fontFamily = "arial";
-// }
+  element.style.color = "red";
+  element.style.backgroundColor = "black";
+  element.style.fontFamily = "arial";
+}
 
 function setHref(element) {
   element.style.textDecoration = "none";
