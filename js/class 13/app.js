@@ -1,7 +1,7 @@
 // Events
 
 function addLink(anchorElement) {
-  console.log(anchorElement);
+  console.log(anchorElement);  
 
   anchorElement.href = "https://www.google.com";
 
