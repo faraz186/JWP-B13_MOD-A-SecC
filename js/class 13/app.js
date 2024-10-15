@@ -57,18 +57,18 @@ function submit() {
     }
   }
 
-// var maleInput = document.getElementById("male");
-// var femaleInput = document.getElementById("female");
-// var othersInput = document.getElementById("others");
+var maleInput = document.getElementById("male");
+var femaleInput = document.getElementById("female");
+var othersInput = document.getElementById("others");
 
-// if (maleInput.checked) {
-//   console.log(maleInput.value);
-// } else if (femaleInput.checked) {
-//   console.log(femaleInput.value);
-// } else if (othersInput.checked) {
-//   console.log(othersInput.value);
-// }
-// }
+if (maleInput.checked) {
+  console.log(maleInput.value);
+} else if (femaleInput.checked) {
+  console.log(femaleInput.value);
+} else if (othersInput.checked) {
+  console.log(othersInput.value);
+}
+}
 
 // var paras = document.getElementsByClassName("para");
 
