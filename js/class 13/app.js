@@ -3,7 +3,7 @@
 function addLink(anchorElement) {
   console.log(anchorElement);    
 
-  anchorElement.href = "https://www.google.com";
+  anchorElement.href = "https://www.google.com";  
 
   anchorElement.target = "_blank";
 
