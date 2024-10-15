@@ -35,14 +35,13 @@ if (word === reverse) {
 
 var arr = [1, 54, true,"faraz", undefined];
 
-// var i = 0;
+var i = 0;
 
-// do {
-//   console.log(arr[i]);
-//   i++;
-// } while (i < arr.length);
+do {
+  console.log(arr[i]);
+  i++;
+} while (i < arr.length);
 
-/*
 
 function multiplicationTable(tableNum, range) {
   var i = 1;
@@ -54,10 +53,8 @@ function multiplicationTable(tableNum, range) {
 }
 
 multiplicationTable(+prompt("Enter any number"), +prompt("Enter range"));
-
-*/
-
-// alert("alert call...");
+  
+alert("alert call...");
 
 // function signUp() {
 //   Swal.fire({
