@@ -70,17 +70,17 @@ if (maleInput.checked) {
 }
 }
 
-// var paras = document.getElementsByClassName("para");
+var paras = document.getElementsByClassName("para");
 
-// console.log(paras);
+console.log(paras);
 
-// for (var i = 0; i < paras.length; i++) {
-//   paras[i].style.color = "red";
-// }
+for (var i = 0; i < paras.length; i++) {
+  paras[i].style.color = "red";
+}
 
-// paras[1].style.color = "red";
-// paras[2].style.color = "red";
-// paras[3].style.color = "red";
+paras[1].style.color = "red";
+paras[2].style.color = "red";
+paras[3].style.color = "red";
 
 function set() {
   var input = document.getElementById("inp");
