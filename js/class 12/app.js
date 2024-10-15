@@ -33,8 +33,7 @@ if (word === reverse) {
 
 // do-while loop
 
-// var arr = [1, 54, true,
-//     "faraz", undefined];
+var arr = [1, 54, true,"faraz", undefined];
 
 // var i = 0;
 
