@@ -40,22 +40,22 @@ function submit() {
   } else {
     alert("required fields empty..");
   }
-// }
+}
 
-// function submit() {
-//   var dropdown = document.getElementById("dropdown");
+function submit() {
+  var dropdown = document.getElementById("dropdown");
 
-//   console.log(dropdown.value);
-// }
+  console.log(dropdown.value);
+}
 
-// function submit() {
-//   var radios = document.getElementsByClassName("genders");
+function submit() {
+  var radios = document.getElementsByClassName("genders");
 
-//   for (var i = 0; i < radios.length; i++) {
-//     if (radios[i].checked) {
-//       console.log(radios[i].value);
-//     }
-//   }
+  for (var i = 0; i < radios.length; i++) {
+    if (radios[i].checked) {
+      console.log(radios[i].value);
+    }
+  }
 
 // var maleInput = document.getElementById("male");
 // var femaleInput = document.getElementById("female");
