@@ -25,21 +25,21 @@ imageElement.width = "300";
 
 imageElement.style.borderRadius = "10px";
 
-// function submit() {
-//   var emailElement = document.getElementById("email");
+function submit() {
+  var emailElement = document.getElementById("email");
 
-//   var passwordElement = document.getElementById("password");
+  var passwordElement = document.getElementById("password");
 
-//   if (emailElement.value.trim() && passwordElement.value.trim()) {
-//     console.log(emailElement.value);
+  if (emailElement.value.trim() && passwordElement.value.trim()) {
+    console.log(emailElement.value);
 
-//     console.log(passwordElement.value);
+    console.log(passwordElement.value);
 
-//     emailElement.value = "";
-//     passwordElement.value = "";
-//   } else {
-//     alert("required fields empty..");
-//   }
+    emailElement.value = "";
+    passwordElement.value = "";
+  } else {
+    alert("required fields empty..");
+  }
 // }
 
 // function submit() {
