@@ -12,18 +12,18 @@ function addLink(anchorElement) {
   anchorElement.style.textDecoration = "none";  
 }
 
-// console.log(document.getElementById("para1"));
+console.log(document.getElementById("para1"));
 
-// console.log(document.getElementById("para2"));
+console.log(document.getElementById("para2"));
 
-// var imageElement = document.getElementById("img");
+var imageElement = document.getElementById("img");
 
-// imageElement.src =
-//   "https://png.pngtree.com/png-clipart/20231019/original/pngtree-user-profile-avatar-png-image_13369988.png";
+imageElement.src =
+  "https://png.pngtree.com/png-clipart/20231019/original/pngtree-user-profile-avatar-png-image_13369988.png";
 
-// imageElement.width = "300";
+imageElement.width = "300";
 
-// imageElement.style.borderRadius = "10px";
+imageElement.style.borderRadius = "10px";
 
 // function submit() {
 //   var emailElement = document.getElementById("email");
