@@ -1,16 +1,16 @@
 // Events
 
-// function addLink(anchorElement) {
-//   console.log(anchorElement);
+function addLink(anchorElement) {
+  console.log(anchorElement);
 
-//   anchorElement.href = "https://www.google.com";
+  anchorElement.href = "https://www.google.com";
 
-//   anchorElement.target = "_blank";
+  anchorElement.target = "_blank";
 
-//   anchorElement.style.color = "green";
+  anchorElement.style.color = "green";
 
-//   anchorElement.style.textDecoration = "none";
-// }
+  anchorElement.style.textDecoration = "none";
+}
 
 // console.log(document.getElementById("para1"));
 
