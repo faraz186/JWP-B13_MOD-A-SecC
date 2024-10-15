@@ -1,8 +1,8 @@
-// var arr = [1, 54, true, "faraz", undefined];
+var arr = [1, 54, true, "faraz", undefined];
 
-// for(var i = 0; i < arr.length; i++) {
-//   console.log(arr[i]);
-// }
+for(var i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
 
 // while loop
 
