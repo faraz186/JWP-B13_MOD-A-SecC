@@ -6,30 +6,30 @@ for(var i = 0; i < arr.length; i++) {
 
 // while loop
 
-// var arr = [1, 54, true, "faraz", undefined];
+var arr = [1, 54, true, "faraz", undefined];
 
-// var i = 0;
+var i = 0;
 
-// while (i < arr.length) {
-//   console.log(arr[i]);
-//   i++;
-// }
+while (i < arr.length) {
+  console.log(arr[i]);
+  i++;
+}
 
-// var word = prompt("Enter a word");
-// var reverse = "";
+var word = prompt("Enter a word");
+var reverse = "";
 
-// var i = word.length - 1;
+var i = word.length - 1;
 
-// while (i >= 0) {
-//   reverse += word[i];
-//   i--;
-// }
+while (i >= 0) {
+  reverse += word[i];
+  i--;
+}
 
-// if (word === reverse) {
-//   console.log(word, " is palindrome");
-// } else {
-//   console.log(word, " is not palindrome");
-// }
+if (word === reverse) {
+  console.log(word, " is palindrome");
+} else {
+  console.log(word, " is not palindrome");
+}
 
 // do-while loop
 
