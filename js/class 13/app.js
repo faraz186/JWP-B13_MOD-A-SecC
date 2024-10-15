@@ -9,7 +9,7 @@ function addLink(anchorElement) {
 
   anchorElement.style.color = "green";
 
-  anchorElement.style.textDecoration = "none";
+  anchorElement.style.textDecoration = "none";  
 }
 
 // console.log(document.getElementById("para1"));
