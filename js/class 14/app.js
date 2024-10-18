@@ -26,11 +26,11 @@ console.log(anchorElement.innerHTML);
 
 var anchorElement = document.getElementById("link");
 
-// anchorElement.innerHTML = "Google";
+anchorElement.innerHTML = "Google";
 
-// anchorElement.href = "https://www.google.com";
+anchorElement.href = "https://www.google.com";
 
-// anchorElement.target = "_blank";
+anchorElement.target = "_blank";
 
 // anchorElement.style.textDecoration = "none";
 
