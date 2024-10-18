@@ -78,21 +78,21 @@ function on() {
   }
 }
 
-// function completePara() {
-//   var para = document.getElementById("para");
+function completePara() {
+  var para = document.getElementById("para");
 
-//   var link = document.getElementById("link");
+  var link = document.getElementById("link");
 
-//   if (link.innerHTML === "Read More") {
-//     para.innerHTML = `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima temporibus quo rerum a natus enim explicabo voluptates! Nam, harum quos dignissimos rem ducimus similique accusamus perspiciatis corrupti voluptate, adipisci porro libero error facere exercitationem reiciendis et laboriosam sequi vel consequatur sed. Eaque, maxime veritatis. Voluptas autem dignissimos ipsam, tempora in suscipit neque nulla quasi? Excepturi error voluptatibus vel distinctio laudantium.`;
+  if (link.innerHTML === "Read More") {
+    para.innerHTML = `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima temporibus quo rerum a natus enim explicabo voluptates! Nam, harum quos dignissimos rem ducimus similique accusamus perspiciatis corrupti voluptate, adipisci porro libero error facere exercitationem reiciendis et laboriosam sequi vel consequatur sed. Eaque, maxime veritatis. Voluptas autem dignissimos ipsam, tempora in suscipit neque nulla quasi? Excepturi error voluptatibus vel distinctio laudantium.`;
 
-//     link.innerHTML = "Read Less";
-//   } else {
-//     para.innerHTML = `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima temporibus`;
+    link.innerHTML = "Read Less";
+  } else {
+    para.innerHTML = `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima temporibus`;
 
-//     link.innerHTML = "Read More";
-//   }
-// }
+    link.innerHTML = "Read More";
+  }
+}
 
 // function completePara() {
 //   var paraElement = document.getElementById("para");
