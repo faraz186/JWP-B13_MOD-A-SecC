@@ -1,5 +1,5 @@
 var paraElement = document.getElementById("para");
-
+  
 var h1Element = document.getElementById("heading");
 
 var anchorElement = document.getElementById("link");
