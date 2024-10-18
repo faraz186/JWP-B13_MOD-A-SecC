@@ -112,11 +112,11 @@ function completePara() {
   }
 }
 
-// var div = document.getElementById("main");
+var div = document.getElementById("main");
 
-// div.innerHTML = "<p>Lorem ipsum dolor sit amet.</p>";
+div.innerHTML = "<p>Lorem ipsum dolor sit amet.</p>";
 
-// console.log(div);
+console.log(div);
 
 // var div = document.getElementById("main");
 
