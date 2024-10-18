@@ -118,11 +118,11 @@ div.innerHTML = "<p>Lorem ipsum dolor sit amet.</p>";
 
 console.log(div);
 
-// var div = document.getElementById("main");
+var div = document.getElementById("main");
 
-// div.className = "div";
+div.className = "div";
 
-// console.log(div);
+console.log(div);
 
 function hideImG() {
   var img = document.getElementById("img");
