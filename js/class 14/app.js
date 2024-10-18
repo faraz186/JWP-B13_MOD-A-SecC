@@ -32,11 +32,11 @@ anchorElement.href = "https://www.google.com";
 
 anchorElement.target = "_blank";
 
-// anchorElement.style.textDecoration = "none";
+anchorElement.style.textDecoration = "none";
 
-// anchorElement.style.fontStyle = "italic";
+anchorElement.style.fontStyle = "italic";
 
-// console.log(anchorElement);
+console.log(anchorElement);
 
 // var div = document.getElementById("container");
 
