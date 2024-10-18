@@ -14,13 +14,17 @@ console.log(h1Element.innerText);
 
 console.log(anchorElement.innerHTML);
 
+
 // two properites of document
+
 
 // .innerHTML
 
 // .innerText
 
-// var anchorElement = document.getElementById("link");
+
+
+var anchorElement = document.getElementById("link");
 
 // anchorElement.innerHTML = "Google";
 
