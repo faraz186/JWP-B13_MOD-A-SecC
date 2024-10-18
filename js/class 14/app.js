@@ -4,9 +4,9 @@ var h1Element = document.getElementById("heading");
 
 var anchorElement = document.getElementById("link");
 
-// h1Element.innerText = "Hello JS";
+h1Element.innerText = "Hello JS";
 
-// paraElement.innerHTML = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum beatae in numquam nostrum doloribus velit ipsa mollitia laudantium impedit! Sed dolorum quasi, commodi laudantium quisquam sit ex ratione sapiente facilis reprehenderit nisi blanditiis quis dicta libero? Sunt, expedita! Aliquid assumenda, ab illo amet reiciendis ipsum perferendis quia quas quisquam dolorem.`;
+paraElement.innerHTML = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum beatae in numquam nostrum doloribus velit ipsa mollitia laudantium impedit! Sed dolorum quasi, commodi laudantium quisquam sit ex ratione sapiente facilis reprehenderit nisi blanditiis quis dicta libero? Sunt, expedita! Aliquid assumenda, ab illo amet reiciendis ipsum perferendis quia quas quisquam dolorem.`;
 
 // console.log(paraElement.innerHTML);
 
