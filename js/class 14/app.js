@@ -51,14 +51,14 @@ function on() {
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
 }
 
-// function off() {
-//   var img = document.getElementById("img");
+function off() {
+  var img = document.getElementById("img");
 
-//   img.src =
-//     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOzfvj4CDlwGDVlVhDJJaPHex1Uj6IpYPJw&s";
+  img.src =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOzfvj4CDlwGDVlVhDJJaPHex1Uj6IpYPJw&s";
 
-//   img.width = "200";
-// }
+  img.width = "200";
+}
 
 // function on() {
 //   var img = document.getElementById("img");
