@@ -69,14 +69,14 @@ function on() {
     img.src =
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
 
-//     btn.innerText = "off";
-//   } else {
-//     img.src =
-//       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOzfvj4CDlwGDVlVhDJJaPHex1Uj6IpYPJw&s";
+    btn.innerText = "off";
+  } else {
+    img.src =
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOzfvj4CDlwGDVlVhDJJaPHex1Uj6IpYPJw&s";
 
-//     btn.innerText = "On";
-//   }
-// }
+    btn.innerText = "On";
+  }
+}
 
 // function completePara() {
 //   var para = document.getElementById("para");
