@@ -38,18 +38,18 @@ anchorElement.style.fontStyle = "italic";
 
 console.log(anchorElement);
 
-// var div = document.getElementById("container");
+var div = document.getElementById("container");
 
-// div.innerHTML = "<h1>container heading</h1>";
+div.innerHTML = "<h1>container heading</h1>";
 
-// console.log(div);
+console.log(div);
 
-// function on() {
-//   var img = document.getElementById("img");
+function on() {
+  var img = document.getElementById("img");
 
-//   img.src =
-//     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
-// }
+  img.src =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
+}
 
 // function off() {
 //   var img = document.getElementById("img");
