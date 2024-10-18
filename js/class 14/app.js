@@ -12,7 +12,7 @@ console.log(paraElement.innerHTML);
 
 console.log(h1Element.innerText);
 
-// console.log(anchorElement.innerHTML);
+console.log(anchorElement.innerHTML);
 
 // two properites of document
 
