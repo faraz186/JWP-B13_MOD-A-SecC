@@ -94,23 +94,23 @@ function completePara() {
   }
 }
 
-// function completePara() {
-//   var paraElement = document.getElementById("para");
+function completePara() {
+  var paraElement = document.getElementById("para");
 
-//   var anchor = document.getElementById("link");
+  var anchor = document.getElementById("link");
 
-//   if (anchor.innerHTML === "Read More") {
-//     paraElement.innerText =
-//       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut neque repudiandae consectetur odit necessitatibus veniam dolore modi sapiente ullam aperiam! Repudiandae, est dolor cupiditate odit consequuntur amet. Ipsa, dolorum. Officia consectetur excepturi eos dolores aliquid ab, quam nemo blanditiis, modi itaque velit praesentium fugiat odit laboriosam ex reprehenderit a qui? Atque nemo doloribus doloremque illum voluptas iste cumque perferendis molestias temporibus, maiores culpa magnam vel minima quas exercitationem necessitatibus facere.";
+  if (anchor.innerHTML === "Read More") {
+    paraElement.innerText =
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut neque repudiandae consectetur odit necessitatibus veniam dolore modi sapiente ullam aperiam! Repudiandae, est dolor cupiditate odit consequuntur amet. Ipsa, dolorum. Officia consectetur excepturi eos dolores aliquid ab, quam nemo blanditiis, modi itaque velit praesentium fugiat odit laboriosam ex reprehenderit a qui? Atque nemo doloribus doloremque illum voluptas iste cumque perferendis molestias temporibus, maiores culpa magnam vel minima quas exercitationem necessitatibus facere.";
 
-//     anchor.innerHTML = "Read Less";
-//   } else {
-//     paraElement.innerHTML =
-//       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut neque repudiandae consectetur";
+    anchor.innerHTML = "Read Less";
+  } else {
+    paraElement.innerHTML =
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut neque repudiandae consectetur";
 
-//     anchor.innerHTML = "Read More";
-//   }
-// }
+    anchor.innerHTML = "Read More";
+  }
+}
 
 // var div = document.getElementById("main");
 
