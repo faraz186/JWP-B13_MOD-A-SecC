@@ -60,14 +60,14 @@ function off() {
   img.width = "200";
 }
 
-// function on() {
-//   var img = document.getElementById("img");
+function on() {
+  var img = document.getElementById("img");
 
-//   var btn = document.getElementById("btn");
+  var btn = document.getElementById("btn");
 
-//   if (btn.innerText === "On") {
-//     img.src =
-//       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
+  if (btn.innerText === "On") {
+    img.src =
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC2UGjYAOn4uISa9Ho_SLHTqWi4JR-bFW7A&s";
 
 //     btn.innerText = "off";
 //   } else {
