@@ -10,7 +10,7 @@ paraElement.innerHTML = `Lorem ipsum dolor sit amet consectetur adipisicing elit
 
 console.log(paraElement.innerHTML);
 
-// console.log(h1Element.innerText);
+console.log(h1Element.innerText);
 
 // console.log(anchorElement.innerHTML);
 
