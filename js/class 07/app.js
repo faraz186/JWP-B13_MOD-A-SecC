@@ -13,7 +13,7 @@ for (var i = 9; i >= 0; i--) {
 }
 
 var userInput = prompt("Enter your city");
-
+  
 var citiesArr = [
   "karachi",  
   "lahore",
