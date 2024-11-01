@@ -20,7 +20,7 @@ var citiesArr = [
   "multan",
   "quetta",
   "peshawar",
-  "islamabad",   
+  "islamabad",     
 ];
 
 for (var i = 0; i <= 5; i++) {
