@@ -9,7 +9,7 @@ for (var i = 0;i < 10; i++) {
 // decrement loop
 
 for (var i = 9; i >= 0; i--) {
-  console.log(i);
+  console.log(i);  
 }
 
 var userInput = prompt("Enter your city");
