@@ -16,7 +16,7 @@ for (var keys in student1) {
   }  
 }  
 
-// Array of Object
+// Array of Object  
   
 var users = [  
   {    
