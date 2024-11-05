@@ -13,7 +13,7 @@ var student1 = {
 for (var keys in student1) {  
   for (var objKeys in student1[keys]) {  
     console.log(student1[keys][objKeys]);    
-  }
+  }  
 }
 
 // Array of Object
