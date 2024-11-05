@@ -50,7 +50,7 @@ for (var i = 0; i < users.length; i++) {
 
 function greet() {
   try {
-    console.lg("hello world");
+    console.lg("hello world");  
   } catch (err) {
     console.log(err);
   }
