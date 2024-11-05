@@ -1,6 +1,6 @@
 var student1 = {  
   name: "faraz",
-  qualification: { 
+  qualification: {   
     education: "bachelors",  
     CGPA: 3.4,
   },
