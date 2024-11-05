@@ -6,7 +6,7 @@ var student1 = {
   },
   age: 23,
   city: "karachi",
-  eduacation: "bachelors",
+  eduacation: "bachelors",  
   email: "faraz@gmail.com",
 };
 
