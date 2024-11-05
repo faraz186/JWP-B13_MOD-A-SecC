@@ -1,4 +1,4 @@
-var student1 = {
+var student1 = {  
   name: "faraz",
   qualification: { 
     education: "bachelors",
