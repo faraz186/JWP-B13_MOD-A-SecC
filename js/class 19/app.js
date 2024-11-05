@@ -1,7 +1,7 @@
 var student1 = {  
   name: "faraz",
   qualification: { 
-    education: "bachelors",
+    education: "bachelors",  
     CGPA: 3.4,
   },
   age: 23,     
