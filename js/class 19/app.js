@@ -27,7 +27,7 @@ var users = [
   {
     id: 2,
     name: "hamza",
-    status: true,
+    status: true,  
   },
   {
     id: 3,
