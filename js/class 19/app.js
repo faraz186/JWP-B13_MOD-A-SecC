@@ -4,7 +4,7 @@ var student1 = {
     education: "bachelors",
     CGPA: 3.4,
   },
-  age: 23,
+  age: 23,  
   city: "karachi",
   eduacation: "bachelors",  
   email: "faraz@gmail.com",
