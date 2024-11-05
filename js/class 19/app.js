@@ -20,7 +20,7 @@ for (var keys in student1) {
   
 var users = [  
   {    
-    id: 1,
+    id: 1,  
     name: "faraz",
     status: false,
   },
