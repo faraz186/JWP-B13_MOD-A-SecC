@@ -3,7 +3,7 @@ var firebaseConfig = {
   authDomain: "fir-auth-8f753.firebaseapp.com",
   databaseURL: "https://fir-auth-8f753-default-rtdb.firebaseio.com",  
   projectId: "fir-auth-8f753",
-  storageBucket: "fir-auth-8f753.firebasestorage.app",
+  storageBucket: "fir-auth-8f753.firebasestorage.app",  
   messagingSenderId: "419024832277",
   appId: "1:419024832277:web:bdffdeb220aa5e4b1d4b1c",
 };
