@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyD3_hgY0lptbJKA9hXRdZW4_BvDQMejsIo",
+  apiKey: "AIzaSyD3_hgY0lptbJKA9hXRdZW4_BvDQMejsIo",  
   authDomain: "fir-auth-8f753.firebaseapp.com",
   databaseURL: "https://fir-auth-8f753-default-rtdb.firebaseio.com",  
   projectId: "fir-auth-8f753",
