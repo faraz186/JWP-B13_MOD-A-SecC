@@ -18,7 +18,7 @@ function saveData() {
 
     var userObj = {
       userName: name,
-      userEmail: email,
+      userEmail: email,  
       userPassword: password,
     };
 
