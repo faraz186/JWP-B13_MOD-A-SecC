@@ -1,7 +1,7 @@
 var firebaseConfig = {
   apiKey: "AIzaSyD3_hgY0lptbJKA9hXRdZW4_BvDQMejsIo",
   authDomain: "fir-auth-8f753.firebaseapp.com",
-  databaseURL: "https://fir-auth-8f753-default-rtdb.firebaseio.com",
+  databaseURL: "https://fir-auth-8f753-default-rtdb.firebaseio.com",  
   projectId: "fir-auth-8f753",
   storageBucket: "fir-auth-8f753.firebasestorage.app",
   messagingSenderId: "419024832277",
